@@ -1,0 +1,2 @@
+C:\Users\rbrto\source\repos\Neural Network\x64\Debug\Neural Network.exe
+C:\Users\rbrto\OneDrive\Documents\GitHub\Simple-Nerual-Network\x64\Debug\Neural Network.exe

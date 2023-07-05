@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\MultiLayerPerceptron.h.obj",
+            "outputs": [
+                "C:\\Users\\rbrto\\OneDrive\\Documents\\GitHub\\Simple-Nerual-Network\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\rbrto\\OneDrive\\Documents\\GitHub\\Simple-Nerual-Network\\x64\\Debug\\MultiLayerPerceptron.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "MultiLayerPerceptron.h",
+                    "source-path": "c:\\users\\rbrto\\onedrive\\documents\\github\\simple-nerual-network\\multilayerperceptron.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
